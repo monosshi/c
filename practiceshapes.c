@@ -14,6 +14,7 @@ int main(){
 }*/
 
 //triangle
+
 #include<stdio.h>
 int main(){
     int r,c,n;
